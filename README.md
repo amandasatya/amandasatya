@@ -29,7 +29,7 @@ A web application built with NextJS and TypeScript that integrates profile pictu
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandasatya/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://personalwebsite-zeta-sage.vercel.app/#portofolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-amanda/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://personalwebsite-zeta-sage.vercel.app/#portofolio) [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=flat&logo=gmail&logoColor=white)](mailto:amandasatya93@gmail.com)
 
 ---
 
