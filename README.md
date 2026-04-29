@@ -3,7 +3,7 @@
 I'm a passionate software engineer based in Bandung, Indonesia. I love to learn, build, and solve problems with code. Here's a snapshot of me:
 
 - 🌱 **Currently learning**: Vue.js,react native,and angularjs
-- 🔭 **Working On**: SaleMate,Foodist, WeRent
+- 🔭 **Working On**: Nafarin SaaS
 - 🌐 **Experienced With**:
   - **Front-end**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   - **Back-end**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
